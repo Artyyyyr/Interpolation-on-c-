@@ -1,0 +1,15 @@
+D:\RiderProgect\Lab4_cm\Lab4_cm\bin\Debug\net6.0\Lab4_cm.exe
+D:\RiderProgect\Lab4_cm\Lab4_cm\bin\Debug\net6.0\Lab4_cm.deps.json
+D:\RiderProgect\Lab4_cm\Lab4_cm\bin\Debug\net6.0\Lab4_cm.runtimeconfig.json
+D:\RiderProgect\Lab4_cm\Lab4_cm\bin\Debug\net6.0\Lab4_cm.dll
+D:\RiderProgect\Lab4_cm\Lab4_cm\bin\Debug\net6.0\Lab4_cm.pdb
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.csproj.AssemblyReference.cache
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.AssemblyInfoInputs.cache
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.AssemblyInfo.cs
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.csproj.CoreCompileInputs.cache
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.dll
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\refint\Lab4_cm.dll
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.pdb
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\Lab4_cm.genruntimeconfig.cache
+D:\RiderProgect\Lab4_cm\Lab4_cm\obj\Debug\net6.0\ref\Lab4_cm.dll
